@@ -1,0 +1,13 @@
+
+1) while fetching image  it just last url ,  from documentstion   , connected to base url
+
+2) all images coming in column , by using display flex , make in row ,   scroll , entire screen scrolls , with the help of scroll x , y 
+
+
+
+// downloaded these dependies 
+
+npm i react-youtube
+npm i movie-trailer
+
+ 
